@@ -4,4 +4,4 @@
 
 Programa em java
 
-Cadastro de alunos em interface visual.
+Cadastro de alunos em interface visual em java.
